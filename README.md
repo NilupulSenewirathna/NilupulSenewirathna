@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Computer Security, Bug Bounty, Hacking, Data Analysis, Network Security**
 
-- 💬 Ask me about **Linux, Nmap, Wireshark, MySQL, Cisco Packet Tracer, Octave, Nessus**
+- 💬 Ask me about **Linux, Nmap, Wireshark, MySQL, Cisco Packet Tracer, Octave, Nessus, QRADAR SIEM, Qualys Vulverability Management, RiskRecon, OWASAP ZAP**
 
 - 📫 How to reach me **amithnilupul2000@gmail.com**
 
